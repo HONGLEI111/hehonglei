@@ -1,6 +1,6 @@
 ---
 title: Hello World
-cover: https://img.hehonglei.cn/img/0002.png
+cover: https://img.hehonglei.cn/img/0002.avif
 categories: 
   - original
 ---
