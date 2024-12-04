@@ -1,7 +1,7 @@
 ---
 title: 防火墙
 date: 2024-09-12 16:15:46
-cover: https://img.hehonglei.cn/img/0001.png
+cover: https://img.hehonglei.cn/img/0001.avif
 tags:
   - linux
 categories: 
