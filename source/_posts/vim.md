@@ -1,7 +1,7 @@
 ---
 title: vim文档
 date: 2024-07-24 10:56:42
-cover: https://img.hehonglei.cn/img/0005.jpg
+cover: https://img.hehonglei.cn/img/0005.avif
 tags: 
   - 文档
 categories: 
