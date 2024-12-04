@@ -7,7 +7,6 @@ tags:
 categories: 
   - documents
 ---
-{% span  logo red h1 left, 本文记录了常用VIM相关操作 %}
 
 <table>
     <tr style="background-color: #8d8d8d;">
