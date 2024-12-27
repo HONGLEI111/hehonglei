@@ -1,7 +1,7 @@
 ---
 title: My first Post
 date: 2024-07-23 11:44:33
-cover: https://img.hehonglei.cn/img/0004.jpg
+cover: https://img.hehonglei.cn/img/0004.avif
 tags:
   - 软件
   - Mailbird
