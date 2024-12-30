@@ -112,5 +112,5 @@ theme: anzhiyu
 
 deploy: 
  type: git
- repository: https://github.com/HONGLEI111/HONGLEI111.github.io.git
- branch: main
+ repository: https://github.com/HONGLEI111/hehonglei
+ branch: master
