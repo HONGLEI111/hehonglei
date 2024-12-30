@@ -23,7 +23,7 @@ timezone: asia/shanghai
 url: https://hehonglei.cn
 root: /
 #url: http://example.com
-permalink: :category/:title/
+permalink: :category/:title
 permalink_defaults:
 pretty_urls:
   trads ailing_index: true # Set to false to remove trailing 'index.html' from permalinks
