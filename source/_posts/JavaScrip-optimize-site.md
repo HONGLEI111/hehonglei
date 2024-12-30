@@ -6,8 +6,6 @@ tags:
   - Javascript
 categories: 
   - 前端
-  - 优化
-  - documents
 ---
 # 使用 JavaScript 技巧优化网站加载速度
 

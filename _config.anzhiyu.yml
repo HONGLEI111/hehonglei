@@ -1048,17 +1048,17 @@ home_top:
   siteText: hehonglei.cn
   category:
     - name: 前端
-      path: /categories/documents/
+      path: /categories/前端/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
     - name: VUE
-      path: /categories/VUE/
+      path: /tags/Vue/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
     - name: React
-      path: /categories/React/
+      path: /tags/React/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book

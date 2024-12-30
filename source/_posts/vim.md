@@ -5,7 +5,7 @@ cover: https://img.hehonglei.cn/img/0005.avif
 tags: 
   - linux
 categories: 
-  - documents
+  - 文档
 ---
 
 <table>

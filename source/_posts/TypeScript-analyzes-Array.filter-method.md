@@ -7,7 +7,6 @@ tags:
   - VUE
   - React
 categories:
-  - documents
   - 前端
 ---
 ## TypeScript解析Array.filter方法
