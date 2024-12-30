@@ -546,7 +546,7 @@ footer:
       source: 1
       # 如果关闭打字效果，subtitle 只会显示 sub 的第一行文字
       sub:
-         - 生活明朗&#44; 万物可爱&#44; 人间值得&#44; 未来可期.
+         - 生活明朗&#44; 万物可爱&#44; 人间值得&#44; 未来可期
 
 # Analysis
 # --------------------------------------
@@ -639,7 +639,7 @@ sidebar:
 h2Divider: false
 
 # 表格隔行变色
-table_interlaced_discoloration: false
+table_interlaced_discoloration: true
 
 # 首页双栏显示
 article_double_row: true
@@ -845,15 +845,15 @@ aside:
 # busuanzi count for PV / UV in site
 # 访问人数
 busuanzi:
-  site_uv: false
-  site_pv: false
-  page_pv: false
+  site_uv: true
+  site_pv: true
+  page_pv: true
 
 # Time difference between publish date and now (网页运行时间)
 # Formal: Month/Day/Year Time or Year/Month/Day Time
 runtimeshow:
   enable: true
-  publish_date: 4/1/2021 00:00:00
+  publish_date: 4/1/2024 00:00:00
 
 # Console - Newest Comments
 newest_comments:
@@ -1048,17 +1048,17 @@ home_top:
   siteText: hehonglei.cn
   category:
     - name: 前端
-      path: /categories/前端开发/
+      path: /categories/documents/
       shadow: var(--anzhiyu-shadow-blue)
       class: blue
       icon: anzhiyu-icon-dove
-    - name: 文档
-      path: /categories/documents/
+    - name: VUE
+      path: /categories/VUE/
       shadow: var(--anzhiyu-shadow-red)
       class: red
       icon: anzhiyu-icon-fire
-    - name: 生活
-      path: /categories/生活日常/
+    - name: React
+      path: /categories/React/
       shadow: var(--anzhiyu-shadow-green)
       class: green
       icon: anzhiyu-icon-book

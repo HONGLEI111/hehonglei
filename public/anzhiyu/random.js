@@ -1,4 +1,4 @@
-var posts=["documents/JavaScrip-optimize-site/","original/software/PC/My-New-Post/","documents/TypeScript-analyzes-Array.filter-method/","documents/firewall/","original/hello-world/","documents/vim/"];function toRandomPost(){
+var posts=["documents/JavaScrip-optimize-site/","original/software/PC/My-New-Post/","documents/TypeScript-analyzes-Array.filter-method/","documents/firewall/","documents/vim/"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[];
     var refreshNum = 1;
