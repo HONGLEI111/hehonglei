@@ -3,8 +3,10 @@ date: 2024-11-18 11:30:50
 title: 使用Javascript技巧优化网站加载速度
 cover: https://img.hehonglei.cn/img/0003.avif
 tags: 
-  - 前端
+  - Javascript
 categories: 
+  - 前端
+  - 优化
   - documents
 ---
 # 使用 JavaScript 技巧优化网站加载速度

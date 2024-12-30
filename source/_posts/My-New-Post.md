@@ -3,15 +3,10 @@ title: My first Post
 date: 2024-07-23 11:44:33
 cover: https://img.hehonglei.cn/img/0004.avif
 tags:
-  - 软件
-  - Mailbird
-  - 邮箱
-  - 推荐
-  - PC
+  - 文档
 categories:
   - original 
-  - software
-  - PC 
+  - documents
 ---
 这是第一行；
 
