@@ -841,6 +841,19 @@ aside:
     post_count: true
     last_push_date: false
     sort_order: # Don't modify the setting unless you know how it works
+  social_icons:
+    - name: 微信
+      icon: https://img.hehonglei.cn/img/vchat.jfif
+      qr: https://img.hehonglei.cn/img/vchatqr.jfif
+    - name: QQ
+      icon: https://img.hehonglei.cn/img/qq.jfif
+      qr: https://img.hehonglei.cn/img/qqqr.jfif
+    - name: 微博
+      icon: https://img.hehonglei.cn/img/wb.jfif
+      qr: https://img.hehonglei.cn/img/wbqr.jfif
+    - name: GitHub
+      icon: https://img.hehonglei.cn/img/github.jfif
+      qr: https://img.hehonglei.cn/img/githubqr.jfif
 
 # busuanzi count for PV / UV in site
 # 访问人数
