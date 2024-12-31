@@ -4,7 +4,7 @@ date: 2024-12-24 10:56:42
 cover: https://img.hehonglei.cn/img/0002.avif
 tags:
   - TypeScript
-  - VUE
+  - Vue
   - React
 categories:
   - 前端
