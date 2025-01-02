@@ -1,0 +1,9 @@
+if theme.aside.card_social.enable
+  .card-widget.card-social
+    each social in theme.aside.card_social.items
+      .social-item
+        a(href=social.link, title=social.name, target="_blank")
+          img.icon(src=social.icon, alt=social.name)
+          .social-text= social.name
+        if social.qr
+          .qr-code(style=`background: url(${social.qr}) center center / cover no-repeat;`)

@@ -810,6 +810,17 @@ aside:
     enable: false
     face: https://bu.dusays.com/2023/01/13/63c02edf44033.png
     backFace: https://bu.dusays.com/2023/05/13/645fa415e8694.png
+  card_social:
+    enable: true
+    items:
+      - name: "微信"
+        icon: https://img.hehonglei.cn/img/wechat.svg
+        qr: https://img.hehonglei.cn/img/qrwechat.avif
+        link: "#"
+      - name: "QQ"
+        icon: https://img.hehonglei.cn/img/qq.svg
+        qr: https://img.hehonglei.cn/img/qrqq.avif
+        link: "#"
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
