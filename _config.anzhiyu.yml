@@ -1238,13 +1238,6 @@ dynamicEffect:
 # 插入代码到头部 </head> 之前 和 底部 </body> 之前
 inject:
   head:
-     - <script>
-window.__rum = {
-  "pid": "d2b45fpo46@9d674331ac4b4fb",
-  "endpoint": "https://d2b45fpo46-default-cn.rum.aliyuncs.com"
-};
-</script>
-<script type="text/javascript" src="https://d2b45fpo46-sdk.rum.aliyuncs.com/v2/browser-sdk.js" crossorigin></script>
      - <link rel="stylesheet" href="https://hehonglei.cn/css/index.css" media="defer" onload="this.media='all'">
      - <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
   bottom:

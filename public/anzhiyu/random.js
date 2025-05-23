@@ -1,4 +1,4 @@
-var posts=["前端/JavaScrip-optimize-site","文档/My-New-Post","前端/TypeScript-analyzes-Array.filter-method","文档/catch-rainwater","文档/firewall","文档/vim"];function toRandomPost(){
+var posts=["前端/JavaScrip-optimize-site","文档/My-New-Post","前端/TypeScript-analyzes-Array.filter-method","文档/catch-rainwater","文档/firewall","文档/vim","uncategorized/ES6-let-ver"];function toRandomPost(){
     pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);
   };var friend_link_list=[];
     var refreshNum = 1;
